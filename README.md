@@ -55,7 +55,7 @@ $  git clone https://github.com/yvonne-peter/Merchandise-shop.git
 
 Then, Enter the project
 ```
-$  cd django-jewelry-shop
+$  cd Merchandise-shop
 ```
 
 **4. Install Requirements from 'requirements.txt'**
