@@ -1,4 +1,4 @@
-# Django Simple E-Commerce Website with Payment
+# Django(Python) Simple E-Commerce Website
 This is a simple e-commerce website built with Django (Python) .
 
 I've made this as a "Electics Merchandise Shop" website but you can make any website you like.
