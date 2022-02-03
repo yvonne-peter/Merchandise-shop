@@ -50,7 +50,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/
+$  git clone https://github.com/yvonne-peter/Merchandise-shop.git
 ```
 
 Then, Enter the project
